@@ -40,3 +40,11 @@ Handling a lunar lander requires deterministic-like control and a deep understan
 - /Scripts/Audio: Contains the FMODManager and specific event triggers.
 - /Scripts/Core: Physics controllers, input reading, and fuel management.
 - /Scripts/UI: Event listeners that update HUD elements based on the ship's telemetry.
+
+## 👨‍💻 Author
+<div aling="left">  
+  <h4>Jesús Carrero - Unity Gameplay Engineer</h1>
+  <a href="https://jesuscarrero.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-a83333?style=for-the-badge&logo=netlify&logoColor=white" width="150" />
+  </a>
+</div>
